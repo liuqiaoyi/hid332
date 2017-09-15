@@ -5,7 +5,7 @@ Logistic
 08/28/17 to 9/03/17 Completed entry survey, viewed Piazza materials and video, viewed class organization video, reread organization materials, completed doodle for help sessions
 09/07/17 Subscribed to Big Data on github
 09/11/17 Attended zoom meeting
-09/15/17 Registered for ShareLatex
+09/15/17 Registered for ShareLatex. Read thru help and introductory ShareLatex training information. Created a sample ShareLatex project. 
 
 
 Theory
