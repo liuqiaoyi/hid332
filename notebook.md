@@ -6,6 +6,7 @@ Logistic
 09/07/17 Subscribed to Big Data on github
 09/11/17 Attended zoom meeting
 
+
 Theory
 
 08/28/17 - 09/03/17 Read and watched all videos in the Theory Introduction section
