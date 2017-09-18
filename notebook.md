@@ -12,6 +12,7 @@ Theory
 
 * 08/28/17 - 09/03/17 Read and watched all videos in the Theory Introduction section
 * 09/12/17 to 09/15/17 Read slides and watched videos - Data Science 
+* 09/16/17 - 09/17/17 Started viewing Big Data Use Cases
 
 Practice
 
@@ -25,6 +26,8 @@ Writing
 * 09/10/17 Viewed video "How to Write a Great Research Paper"
 * 09/11/17 Started collecting research material for Paper 1, viwed LaTex training video, reread thru LaTex information 
 * 09/15/17 Proposed topic for Paper 2
+* 09/16/17 Research for paper
+* 09/17/17 Outline for paper, started first draft of paper, viewed Jabref video. 
 
 Assignments
 
