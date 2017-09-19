@@ -6,12 +6,12 @@ Remove all sections that you have not yet worked on.
 Owner
 
 owner:
-    hid: 000
-    name: Gregor von Laszewski
-    url: https://github.com/bigdata-i523/sample-hid000
+    hid: 332
+    name: Judy Phillips
+    url: https://github.com/bigdata-i523/sample-hid332
 Paper 1
 
-paper1:
+# paper1:
    author: 
    - Judy Phillips
    
@@ -20,7 +20,7 @@ paper1:
    - 001
    title: Big Data Analytics in Agriculture
    abstract: This paper gives an overview of how Big data and Data science in being used in Agriculture
-   url: https://github.com/bigdata-i523/sample-hid332/paper1/paper1.pdf
+   # url: https://github.com/bigdata-i523/sample-hid332/paper1/paper1.pdf
    type: latex
    status: in progress
 Paper 2
@@ -32,7 +32,7 @@ paper2:
    - 332
    title: Big Data Analytics in Developing Countries
    abstract: Overview of how big data is being used in developing countries to solve issues
-   url: https://github.com/bigdata-i523/sample-hid332/paper2/paper2.pdf   
+   # url: https://github.com/bigdata-i523/sample-hid332/paper2/paper2.pdf   
    type: latex
    status: in progress
 Project
@@ -40,7 +40,7 @@ Project
 We will assign new pids for you when we approve the project and reports
 Just use one type and delete the line with
 
-project:
+# project:
    type: project
    type: report
    author: 
