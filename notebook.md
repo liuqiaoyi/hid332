@@ -6,13 +6,14 @@ Logistic
 * 09/07/17 Subscribed to Big Data on github
 * 09/11/17 Attended zoom meeting
 * 09/15/17 Registered for ShareLatex. Read thru help and introductory ShareLatex training information. Created a sample ShareLatex project. 
+* 09/18/2017 - Attended zoom meeting
 
 
 Theory
 
 * 08/28/17 - 09/03/17 Read and watched all videos in the Theory Introduction section
 * 09/12/17 to 09/15/17 Read slides and watched videos - Data Science 
-* 09/16/17 - 09/17/17 Started viewing Big Data Use Cases
+* 09/16/17 - 09/17/18 Started viewing Big Data Use Cases
 
 Practice
 
