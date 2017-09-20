@@ -1,29 +1,29 @@
 # hid332
-Comments
+# Comments
 
-Mind the quotes and do not forget them. Please do not delete the quotes, and keep the #
-Remove all sections that you have not yet worked on.
-Owner
+# Owner
 
 owner:
     hid: 332
     name: Judy Phillips
     url: https://github.com/bigdata-i523/sample-hid332
-Paper 1
+    
+# Paper 1
 
-# paper1:
+paper1:
    author: 
    - Judy Phillips
    
    hid:
    - 332
-   - 001
+   
    title: Big Data Analytics in Agriculture
    abstract: This paper gives an overview of how Big data and Data science in being used in Agriculture
-   # url: https://github.com/bigdata-i523/sample-hid332/paper1/paper1.pdf
+   # url: https://github.com/bigdata-i523/sample-hid332/paper1/paper1.pdf (not yet posted) 
    type: latex
    status: in progress
-Paper 2
+   
+# Paper 2
 
 paper2:
    author: 
@@ -32,23 +32,19 @@ paper2:
    - 332
    title: Big Data Analytics in Developing Countries
    abstract: Overview of how big data is being used in developing countries to solve issues
-   # url: https://github.com/bigdata-i523/sample-hid332/paper2/paper2.pdf   
+   # url: https://github.com/bigdata-i523/sample-hid332/paper2/paper2.pdf  (not yet posted)  
    type: latex
-   status: in progress
-Project
+   status: not yet started
 
-We will assign new pids for you when we approve the project and reports
-Just use one type and delete the line with
 
-# project:
-   type: project
-   type: report
-   author: 
-   - Judy Phillips
-   pid:
-   - 332
-   title: Topic of this paper to be announces
-   abstract: This paper showcases tis and that and the other 
-   url: https://github.com/bigdata-i523/sample-hid332/project/report.pdf
-   type: latex
-   status: in progress
+# Project
+  author:
+  - Judy Phillips
+  hid:
+  - 332
+  title: Not yet decided 
+  abstract: Not yet decided
+  #url: (not yet posted)
+  type: latex
+  status: not yet started
+
