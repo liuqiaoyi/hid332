@@ -13,7 +13,7 @@ Theory
 
 * 08/28/17 - 09/03/17 Read and watched all videos in the Theory Introduction section
 * 09/12/17 to 09/15/17 Read slides and watched videos - Data Science 
-* 09/16/17 - 09/17/18 Started viewing Big Data Use Cases
+* 09/16/17 - 09/20/18 Started viewing Big Data Use Cases slides and videos.
 
 Practice
 
@@ -34,4 +34,5 @@ Assignments
 
 * 09/06/17 Proposed Topic for Paper 1
 * 09/15/17 Proposed Topic for Paper 2
+* 09/20/17 Updated github.com README page
 
