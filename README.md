@@ -53,7 +53,9 @@ paper2:
   title: Not yet decided 
   
   abstract: Not yet decided
+  
   #url: https://github.com/bigdata-i523/sample-hid332/project/report.pdf  (not yet posted)
+  
   type: latex
   
   status: not yet started
