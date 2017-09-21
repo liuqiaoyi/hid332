@@ -6,7 +6,7 @@
 owner:
     hid: 332
     name: Judy Phillips
-    url: https://github.com/bigdata-i523/sample-hid332
+    url: https://github.com/bigdata-i523/hid332
 ```
 
 # Paper 1
