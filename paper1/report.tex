@@ -1,0 +1,65 @@
+\documentclass[sigconf]{acmart}
+
+\usepackage{hyperref}
+
+\usepackage{endfloat}
+\renewcommand{\efloatseparator}{\mbox{}} % no new page between figures
+
+\usepackage{booktabs} % For formal tables
+
+\settopmatter{printacmref=false} % Removes citation information below abstract
+\renewcommand\footnotetextcopyrightpermission[1]{} % removes footnote with conference information in first column
+\pagestyle{plain} % removes running headers
+
+\begin{document}
+\title{My great Big Dat Paper}
+
+
+\author{Shiqi Shen}
+\orcid{1234-5678-9012}
+\affiliation{%
+  \institution{Indiana University Bloomington}
+  \streetaddress{3209 E 10th St}
+  \city{Bloomington} 
+  \state{Indiana} 
+  \postcode{47408}
+}
+\email{trovato@corporation.com}
+
+% The default list of authors is too long for headers}
+\renewcommand{\shortauthors}{B. Trovato et al.}
+
+
+\begin{abstract}
+This paper 
+\end{abstract}
+
+\keywords{ACM proceedings, \LaTeX, text tagging}
+
+
+\maketitle
+
+\section{Introduction}
+
+The \textit{proceedings} are the \cite{VanGundy09}
+
+\section{The Body of The Paper}
+
+Typically, the body of a
+
+\section{Conclusions}
+
+This paragraph wi \cite{Villars2011care}
+
+
+\begin{acks}
+
+  The authors would like to thank Dr. Yuhua Li for providing the
+  matlab code of the \textit{BEPS} method.
+
+\end{acks}
+
+\bibliographystyle{ACM-Reference-Format}
+\bibliography{report} 
+
+\end{document}
