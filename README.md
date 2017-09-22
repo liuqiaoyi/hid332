@@ -4,9 +4,9 @@
 
 ```
 owner:
-    hid: 332
-    name: Judy Phillips
-    url: https://github.com/bigdata-i523/hid332
+   hid: 332
+   name: Judy Phillips
+   url: https://github.com/bigdata-i523/hid332
 ```
 
 # Paper 1
@@ -49,7 +49,7 @@ project:
   - 332
   title: Not yet decided 
   abstract: Not yet decided
-  url: https://github.com/bigdata-i523/sample-hid332/project/report.pdf  (not yet posted)
+  url: https://github.com/bigdata-i523/sample-hid332/project/report.pdf
   type: latex
   status: not yet started
 ```
