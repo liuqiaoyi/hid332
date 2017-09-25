@@ -13,7 +13,8 @@ Theory
 
 * 08/28/17 - 09/03/17 Read and watched all videos in the Theory Introduction section
 * 09/12/17 to 09/15/17 Read slides and watched videos - Data Science 
-* 09/16/17 - 09/25/18 Started viewing Big Data Use Cases slides and videos.
+* 09/16/17 - 09/23/18 Completed viewing Big Data Use Cases Survey
+* 09/24/17 - 09/25/18 Started viewing Health Informatics Case Study 
 
 Practice
 
