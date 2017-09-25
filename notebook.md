@@ -30,6 +30,7 @@ Writing
 * 09/15/17 Proposed topic for Paper 2
 * 09/16/17 Research for paper
 * 09/17/17 Outline for paper, started first draft of paper, viewed Jabref video. 
+* 09/23/17 - 09/24/17 Worked on writing paper
 
 Assignments
 
