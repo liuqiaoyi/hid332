@@ -21,6 +21,7 @@
 * 08/21/17 to 08/27/17  Went thought intro and learned about Piazza, posted bio, completed surveys
 * 08/28/17 to 09/03/17  Purchased book on Python, read first 4 chapters of book
 * 09/09/17 - 09/10/17   Read thru Python Tutorial information
+* 09/26/17 - Installed Python to my newer computer
 
 # Writing
 
@@ -30,7 +31,8 @@
 * 09/15/17 Proposed topic for Paper 2
 * 09/16/17 Research for paper
 * 09/17/17 Outline for paper, started first draft of paper, viewed Jabref video. 
-* 09/23/17 - 09/25/17 Worked on writing paper
+* 09/23/17 - 09/27/17 Worked on writing paper
+* 09/26/17 - Installed Jabref to my newer computer
 
 # Assignments
 
