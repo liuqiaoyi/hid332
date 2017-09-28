@@ -23,6 +23,7 @@
 * 09/09/17 - 09/10/17   Read thru Python Tutorial information
 * 09/26/17 - Installed Python to my newer computer
 
+
 # Writing
 
 * 09/06/17 Proposed topic for Paper 1
@@ -33,6 +34,7 @@
 * 09/17/17 Outline for paper, started first draft of paper, viewed Jabref video. 
 * 09/23/17 - 09/27/17 Worked on writing paper
 * 09/26/17 - Installed Jabref to my newer computer
+ 09/27/17 - 09/28/2017 Worked on paper, concentrated on getting bibliography updates to work
 
 # Assignments
 
