@@ -14,7 +14,8 @@
 * 08/28/17 - 09/03/17 Read and watched all videos in the Theory Introduction section
 * 09/12/17 to 09/15/17 Read slides and watched videos - Data Science 
 * 09/16/17 - 09/23/18 Completed viewing Big Data Use Cases Survey
-* 09/24/17 - 09/25/18 Started viewing Health Informatics Case Study 
+* 09/24/17 - 09/28/18 Completed viewing Health Informatics Case Study
+* 09/29/17 - Started viewing e-commerce and lifesyle
 
 # Practice
 
@@ -22,6 +23,7 @@
 * 08/28/17 to 09/03/17  Purchased book on Python, read first 4 chapters of book
 * 09/09/17 - 09/10/17   Read thru Python Tutorial information
 * 09/26/17 - Installed Python to my newer computer
+* 09/28/17 - Experimented with Python via tutorial
 
 
 # Writing
@@ -34,7 +36,7 @@
 * 09/17/17 Outline for paper, started first draft of paper, viewed Jabref video. 
 * 09/23/17 - 09/27/17 Worked on writing paper
 * 09/26/17 - Installed Jabref to my newer computer
-* 09/27/17 - 09/28/2017 Worked on paper, concentrated on getting bibliography updates to work
+* 09/27/17 - 09/29/2017 Worked on paper, concentrated on getting bibliography updates to work
 
 # Assignments
 
