@@ -24,6 +24,7 @@
 * 09/09/17 - 09/10/17   Read thru Python Tutorial information
 * 09/26/17 - Installed Python to my newer computer
 * 09/28/17 - Experimented with Python via tutorial
+* 10/1/17 - Googled and read about YAML format
 
 
 # Writing
