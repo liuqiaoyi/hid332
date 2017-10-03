@@ -7,6 +7,7 @@
 * 09/11/17 Attended zoom meeting
 * 09/15/17 Registered for ShareLatex. Read thru help and introductory ShareLatex training information. Created a sample ShareLatex project. 
 * 09/18/2017 - Attended zoom meeting
+* 10/02/2017 - Attended zoom meeting
 
 
 # Theory
