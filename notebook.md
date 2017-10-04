@@ -16,7 +16,8 @@
 * 09/12/17 to 09/15/17 Read slides and watched videos - Data Science 
 * 09/16/17 - 09/23/17 Completed viewing Big Data Use Cases Survey
 * 09/24/17 - 09/28/17 Completed viewing Health Informatics Case Study
-* 09/29/17 - 10/04/17 Started viewing e-commerce and lifesyle
+* 09/29/17 - 10/04/17 Completed viewing e-commerce and lifesyle
+* 10/04/17 -  Viewing physics in process
 
 # Practice
 
