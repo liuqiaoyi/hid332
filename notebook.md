@@ -14,9 +14,9 @@
 
 * 08/28/17 - 09/03/17 Read and watched all videos in the Theory Introduction section
 * 09/12/17 to 09/15/17 Read slides and watched videos - Data Science 
-* 09/16/17 - 09/23/18 Completed viewing Big Data Use Cases Survey
-* 09/24/17 - 09/28/18 Completed viewing Health Informatics Case Study
-* 09/29/17 - Started viewing e-commerce and lifesyle
+* 09/16/17 - 09/23/17 Completed viewing Big Data Use Cases Survey
+* 09/24/17 - 09/28/17 Completed viewing Health Informatics Case Study
+* 09/29/17 - 10/04/17 Started viewing e-commerce and lifesyle
 
 # Practice
 
@@ -39,7 +39,7 @@
 * 09/23/17 - 09/27/17 Worked on writing paper
 * 09/26/17 - Installed Jabref to my newer computer
 * 09/27/17 - 09/29/2017 Worked on paper, concentrated on getting bibliography updates to work
-
+* 10/04/17 - Posted paper1 draft and requested feedback
 # Assignments
 
 * 09/06/17 Proposed Topic for Paper 1
