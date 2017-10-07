@@ -19,9 +19,9 @@ paper1:
    - 332
    title: Big Data Analytics in Agriculture
    abstract: Overview of how Big data and Data science in being used in Agriculture
-   # url: https://github.com/bigdata-i523/sample-hid332/paper1/paper1.pdf (posted - in process of  doing final review) 
+   # url: https://github.com/bigdata-i523/sample-hid332/paper1/paper1.pdf (posted) 
    type: latex
-   status: in progress
+   status: completed
    chapter: Environment
 ```
 
